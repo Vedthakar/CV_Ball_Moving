@@ -10,13 +10,7 @@ More than anything, this project was a learning milestone for me. It helped me u
 
 ## Demo Video
 
-Add your demo video here.
-
-[![Watch the demo](./images/demo-thumbnail.png)](PASTE_VIDEO_LINK_HERE)
-
-Or use a direct link:
-
-[Watch the demo](PASTE_VIDEO_LINK_HERE)
+Watch the demo here: [IMG_9132.mov](./Demo/IMG_9132.mov)
 
 ---
 
@@ -66,9 +60,6 @@ Once a hand is detected, it:
 The result is a simple but interactive demo where a tracked hand can influence the position and angle of a visual object in real time.
 
 ---
-## Demo Video
-
-Watch the demo here: [IMG_9132.mov](./Demo/IMG_9132.mov)
 
 ## Tech stack
 

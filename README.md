@@ -10,8 +10,9 @@ More than anything, this project was a learning milestone for me. It helped me u
 
 ## Demo Video
 
-Watch the demo here: [IMG_9132.mov](./Demo/IMG_9132.mov)
+This demo shows the hand-tracking system controlling an object in 2D space.
 
+[![Watch the demo](./Demo/demo-thumbnail.png)](./Demo/IMG_9132.mov)
 ---
 
 ## What this project is
